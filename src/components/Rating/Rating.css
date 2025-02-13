@@ -1,0 +1,25 @@
+.rating-container {
+    text-align: center;
+  }
+  .rating-image {
+    width: 100px;
+    height: auto;
+    margin: 10px;
+  }
+  .buttons-container {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+  }
+  .rating-button {
+    padding: 10px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  .rating-button:hover {
+    background-color: #0056b3;
+  }
+  
