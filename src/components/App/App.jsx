@@ -1,6 +1,6 @@
 // import React from "react";
-import Rating from "./components/Rating/Rating";
-import List from "./components/List/List";
+import Rating from "../Rating/Rating";
+import List from "../List/List";
 
 const App = () => {
   return (
